@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jjray84.
-- 🌱 I’m currently learning software development.
+Junior Developer with MERN certification.  Always looking for something fun to work on!
 
 <!---
 jjray84/jjray84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
